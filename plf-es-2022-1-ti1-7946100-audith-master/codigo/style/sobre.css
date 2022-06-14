@@ -1,0 +1,155 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+   
+    max-height: 100%;
+    max-width: 100%;
+    min-height: 300px;
+    min-width: 300px;
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(0, 13, 36) 10%, rgba(9,121,62,1) 55%, rgb(0, 97, 52) 90%);
+}
+.scopo-conteudo-corpo{
+    text-align: center;
+    margin: auto 1.5% auto 1.5%;
+    width:auto;
+    max-width:100%;
+}
+
+
+.scopo-conteudo-text{
+    text-align: center;
+}
+hr{
+    color: rgb(94, 255, 0) !important;
+    border-radius: 10px;
+}
+
+h1{
+    color: white;
+
+    font-family:'Courier New', Courier, monospace;
+    font-variant:small-caps;
+    font-display:inherit;
+}
+
+h2 {
+    color: white;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+    color: white;
+
+    font-family:'Courier New', Courier, monospace;
+    font-variant:small-caps;
+    font-display:inherit;
+    text-align: center;
+}
+
+h6 {
+    color: white;
+
+}
+
+h5 {
+    color: white;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    color: white;
+
+}
+
+a {
+    font-size: large;
+    margin-block: -5px;
+}
+
+p {
+    color: white;
+}
+
+.titulo{
+    font-family: cursive;
+}
+.navbar{
+    background-color: rgba(12, 199, 121, 0.156);
+}
+.labels-nav{
+    font-family: Courier, "Lucida Console", monospace;
+}
+
+
+
+img.navbar-brand {
+    width: 150px;
+    height: 130px;
+    margin-right: 25px;
+}
+
+.container {
+    text-align: center;
+}
+
+.container-info {
+    margin-right: 18%;
+    margin-bottom: 10%;
+}
+.container-info {
+        margin-top: 10%;
+        padding-left: 10%;
+        margin-right: 30%;
+        margin-bottom: 10%;
+}
+
+
+
+.bloco-info-container{
+    padding: 2%;
+}
+
+.bloco-sobre-container{
+    padding: 2%;
+}
+
+
+
+.img-info{
+    height:85%; 
+    min-height:50%;
+    width: 100%;
+    max-width: 100%;
+}
+
+.img-sobre{
+    height:65%; 
+    min-height:50%;
+    width: 100%;
+    max-width: 100%;
+}
+
+
+
+.textorodape {
+    margin-top: 2.5%;
+    align-self: center;
+    color: rgb(252, 252, 252);
+}
+
+.footer1{
+    background: #18181856;
+}
+
+.text-para-esquerda{
+    text-align: center;
+}
+.text-para-direita{
+    text-align: center;
+}

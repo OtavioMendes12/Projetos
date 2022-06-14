@@ -1,0 +1,18 @@
+div[vw]{
+    position: unset !important;
+    margin-top: 0 !important;
+}
+
+div[vw] div[vw-plugin-wrapper]{
+    float: none;
+}
+
+div[vw] div[vw-access-button] .access-button{
+    width: 40%;
+}
+
+
+textarea#traduzir{
+    background: #222;
+    color: white;
+}
