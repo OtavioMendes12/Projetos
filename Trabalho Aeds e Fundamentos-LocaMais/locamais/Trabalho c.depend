@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1656528031 source:d:\users\1349437\desktop\trabalho c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1656856601 source:c:\users\samsung\desktop\locamais-atualizado-main\locamais-atualizado-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1656861930 source:c:\users\victo\desktop\trabalho aeds e fundamentos-locamais\locamais-atualizado-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<math.h>
+
+1656950897 source:c:\users\otavi\desktop\trabalho aeds e fundamentos-locamais\locamais-atualizado-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<math.h>
+
